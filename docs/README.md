@@ -26,5 +26,3 @@ Uma página web que busca facilitar a troca de elementos de uma dieta por receit
    * Comentários em Receitas: possibilita o feedback do usuário em relação ao conteúdo da aplicação.
    * Gerenciar Conteúdo (para o administrador): permite que os administradores adicionem, editem ou removam receitas e outros conteúdos do sistema.
    * Moderação de Comentários (para o administrador): permite que os administradores removam comentários inapropriados para a aplicação.
-### 3. Relações
-   * 
